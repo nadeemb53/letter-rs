@@ -2,6 +2,9 @@
     "version":"0.2",
     "language": "en",
     "words":[
-        "reqwest"
+        "reqwest",
+        "guine",
+        "actix",
+        "serde"
     ]
 }
