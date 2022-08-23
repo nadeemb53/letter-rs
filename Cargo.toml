@@ -21,6 +21,7 @@ uuid = { version = "1", features = ["v4"] }
 chrono = "0.4.15"
 env_logger = "0.9"
 log = "0.4"
+tracing = { version = "0.1", features = ["log"]}
 
 [dependencies.sqlx]
 version = "0.6"
