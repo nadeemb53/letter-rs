@@ -1,5 +1,8 @@
 # Newsletter backend
 
+![example workflow](https://github.com/nadeemb53/rs-zero2prod/actions/workflows/general.yml/badge.svg)
+
+
 ## Pre-requisites
 
 You'll need to install:
