@@ -2,6 +2,7 @@
 
 ![example workflow](https://github.com/nadeemb53/rs-zero2prod/actions/workflows/general.yml/badge.svg)
 
+Health check: [production](https://zero2prod-y3ywz.ondigitalocean.app/health_check)
 
 ## Pre-requisites
 
